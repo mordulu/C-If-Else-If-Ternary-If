@@ -11,7 +11,9 @@
         System.Console.WriteLine("İyi Geceler");
 
   string sonuc = time<=18 ? "İyi Günler" : "İyi Geceler";
+  
   sonuc = time>=6 && time<11 ? "Günaydın!" : "İyi Geceler!";
+  
   System.Console.WriteLine(sonuc);
 
 }
