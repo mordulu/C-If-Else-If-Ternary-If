@@ -1,0 +1,15 @@
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\obj\Debug\net6.0\IfElselfTernaryIf.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\obj\Debug\net6.0\IfElselfTernaryIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\obj\Debug\net6.0\IfElselfTernaryIf.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\obj\Debug\net6.0\IfElselfTernaryIf.AssemblyInfo.cs
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\obj\Debug\net6.0\IfElselfTernaryIf.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\bin\Debug\net6.0\IfElselfTernaryIf.exe
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\bin\Debug\net6.0\IfElselfTernaryIf.deps.json
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\bin\Debug\net6.0\IfElselfTernaryIf.runtimeconfig.json
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\bin\Debug\net6.0\IfElselfTernaryIf.dll
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\bin\Debug\net6.0\IfElselfTernaryIf.pdb
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\obj\Debug\net6.0\IfElselfTernaryIf.dll
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\obj\Debug\net6.0\refint\IfElselfTernaryIf.dll
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\obj\Debug\net6.0\IfElselfTernaryIf.pdb
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\obj\Debug\net6.0\IfElselfTernaryIf.genruntimeconfig.cache
+C:\Users\Melih\Desktop\Pratikler\IfElselfTernaryIf\obj\Debug\net6.0\ref\IfElselfTernaryIf.dll
